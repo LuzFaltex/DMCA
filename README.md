@@ -14,7 +14,7 @@ We do not accept Pull Requests in this repository.
 
 If you are looking to file or dispute a takedown notice by posting to this repository, read on to learn about the available paths forward.
 
-If you are a copyright owner wishing to submit a takedown notice, read our [DMCA Policy](https://www.luzfaltex.com/policies/dmca) and [Guide to Submitting a DMCA Takedown Notice](https://www.luzfaltex.com//docs/dmca/takedown-notice). You can submit the actual notice using our special [Copyright Claims Contact Form](https://www.luzfaltex.com/contact/dmca/takedown-notice).
+If you are a copyright owner wishing to submit a takedown notice, read our [DMCA Policy](https://www.luzfaltex.com/policies/dmca) and [Guide to Submitting a DMCA Takedown Notice](https://www.luzfaltex.com/docs/dmca/takedown-notice). You can submit the actual notice using our special [Copyright Claims Contact Form](https://www.luzfaltex.com/contact/dmca/takedown-notice).
 
 If you are the owner of content that has been taken down, you have two main options:
 
