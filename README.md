@@ -15,16 +15,16 @@ For more details, see our [DMCA policy](https://www.luzfaltex.com/policies/dmca)
 #### Anatomy of a takedown notice
 
 In the spirit of transparency, we post each takedown notice that we process without making any changes to the text, except for redacting private information and URLs that were not actionable, and adding a few annotations to help you better understand how we processed the notice. Here are the annotations you might see and what they mean.
-1. **We gave repository owners a chance to make changes before we processed the notice.** 
+1. **We gave content owners a chance to make changes before we processed the notice.** 
 
 When you see this at the top of a notice 
 >Before disabling any content in relation to this takedown notice, LuzFaltex
->- contacted the owners of some or all of the affected repositories to give them an opportunity to make changes that could have prevented the need to disable the content 
+>- contacted the owners of some or all of the affected posts to give them an opportunity to make changes that could have prevented the need to disable the content 
 >- provided information on how to [submit a DMCA Counter Notice](https://www.luzfaltex.com/docs/dmca/counter-notice). 
 
-it means that either the notice did not allege that the entire contents of a post infringe, or the copyright holder identified other changes that could be made to the content to resolve the alleged infringement. As we note in our [DMCA Takedown Policy](https://www.luzfaltex.com/policies/dmca#how-does-this-actually-work), in those cases, because LuzFaltex cannot disable access to specific parts of a post, we will contact the user who created the repository and give them approximately 1 business day to delete or modify the content specified in the notice. 
+it means that either the notice did not allege that the entire contents of a post infringe, or the copyright holder identified other changes that could be made to the content to resolve the alleged infringement. As we note in our [DMCA Takedown Policy](https://www.luzfaltex.com/policies/dmca#how-does-this-actually-work), in those cases, because LuzFaltex cannot disable access to specific parts of a post, we will contact the user who created the post and give them approximately 1 business day to delete or modify the content specified in the notice.
 
-If the repository owner makes the necessary changes, then LuzFaltex will not disable the content. In some cases, that means the posts are currently available despite being listed in the notice. In other cases, a post might be unavailable because the owner decided to delete it.
+If the post creator makes the necessary changes, then LuzFaltex will not disable the content. In some cases, that means the posts are currently available despite being listed in the notice. In other cases, a post might be unavailable because the owner decided to delete it.
 
 2. **We only processed the takedown notice with respect to some of the reported URLs.** 
 >[invalid]
@@ -32,7 +32,7 @@ If the repository owner makes the necessary changes, then LuzFaltex will not dis
 or
 >[private]
 
-In many cases a notice alleges copyright infringement in multiple posts or files. When we determine that only some of the posts or files are infringing, including where reported content was not available at the time we reviewed the notice, we replace the other URLs with `[invalid]`. We use `[private]` to note redaction of private information.
+In many cases a notice alleges copyright infringement in multiple posts or files. When we determine that only some of the posts or files are infringing, including where reported content was not available at the time we reviewed the notice, we replace the URLs with `[invalid]`. We use `[private]` to note redaction of private information.
 
 #### Contributing
 
@@ -40,16 +40,14 @@ If you are looking to file or dispute a takedown notice by posting to this repos
 
 Read on to learn about the available paths forward.
 
-If you are a copyright owner wishing to submit a takedown notice, read our [DMCA Policy](https://www.luzfaltex.com/policies/dmca) and [Guide to Submitting a DMCA Takedown Notice](https://www.luzfaltex.com/docs/dmca/takedown-notice). You can submit the actual notice using our special [Copyright Claims Contact Form](https://www.luzfaltex.com/contact/dmca/takedown-notice).
+If you are a copyright owner wishing to submit a takedown notice, read our [DMCA Policy](https://www.luzfaltex.com/policies/dmca) and [Guide to Submitting a DMCA Takedown Notice](https://www.luzfaltex.com/docs/dmca/takedown-notice). You can submit the actual notice using our [Copyright Claims Contact Form](https://www.luzfaltex.com/contact/dmca/takedown-notice).
 
 If you are the owner of content that has been taken down, you have two main options:
 
-  - Do you want to [make changes](https://www.luzfaltex.com/policies/dmca#what-if-i-inadvertently-missed-the-window-to-make-changes) to the content that would remove the allegedly infringing content? If that is possible in your case, [contact us](https://www.luzfaltex.com/contact/support) to let us know that you would like to make the changes.
+  - Do you want to [make changes](https://www.luzfaltex.com/policies/dmca#what-if-i-inadvertently-missed-the-window-to-make-changes) to the post that would remove the allegedly infringing content? If that is possible in your case, [contact us](https://www.luzfaltex.com/contact/support) to let us know that you would like to make the changes.
 
   - Do you want to formally dispute the action by [submitting a counter notice](https://www.luzfaltex.com/docs/dmca/counter-notice)? Maybe the person sending the takedown notice does not hold the copyright or did not realize that you have a license or made some other mistake in their takedown notice. If you believe your content on a LuzFaltex site was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by [submitting a counter notice](https://www.luzfaltex.com/docs/dmca/counter-notice). If you do, we will wait 10-14 days and then re-enable your content unless the copyright owner initiates a legal action before then.
 
-If you do not want to make changes or dispute the notice, but still have general concerns about the copyright laws and how they apply in your case, know that LuzFaltex and the community have the opportunity and a voice to advocate for changes in law and public policy to better support software development. We also encourage you to [learn more about copyright and speak up](https://www.luzfaltex.com/policies/dmca#learn-more-and-speak-up) by reaching out to the Copyright Office or your local lawmakers to voice your concerns.
+If you do not want to make changes or dispute the notice, but still have general concerns about the copyright laws and how they apply in your case, know that LuzFaltex and the community have the opportunity and a voice to advocate for changes in law and public policy. We also encourage you to [learn more about copyright and speak up](https://www.luzfaltex.com/policies/dmca#learn-more-and-speak-up) by reaching out to the Copyright Office or your local lawmakers to voice your concerns.
 
 If you would just like to comment on a commit to discuss it, that's fine, but again please note that LuzFaltex does not actively monitor comments or other contributions to this repository. So if you want send a comment *to LuzFaltex* for any reason about this repository, please [contact us directly](https://www.luzfaltex.com/contact/support). Thanks!
-
-
